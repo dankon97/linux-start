@@ -16,5 +16,6 @@ pwd         # Показать текущую директорию
 sudo apt update
 sudo apt install htop curl git
 
+##🔐 Безопасность
 sudo ufw enable
 sudo ufw allow ssh
